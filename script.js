@@ -36,7 +36,7 @@ function genrateHTML(results) {
         </div>
     </div> 
         `
-        document.querySelector('#showRecipe').innerHTML = showINHTML;
+        document.querySelector('#mostrarReceta').innerHTML = showINHTML;
 
     })
 }
