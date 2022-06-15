@@ -1,0 +1,25 @@
+header {
+    background: cyan;
+    padding: 20px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .personal-greeting {
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: 12px;
+    padding: 1rem;
+
+  }
+
+  button {
+    display: block;
+    margin: 1rem auto;
+  }
+
+
